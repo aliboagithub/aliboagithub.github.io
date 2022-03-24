@@ -35,11 +35,11 @@ CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 私人频道_222,#genre#
 beeg.com,#genre#
 
-https://video.beeg.com/key=eWzt0OXtMLHtceXEP+zTHg,end=1648134250,ip=192.18.136.38,limit=1/media=hlsA/1080p/924830414309688.mp4
+001,https://video.beeg.com/key=eWzt0OXtMLHtceXEP+zTHg,end=1648134250,ip=192.18.136.38,limit=1/media=hlsA/1080p/924830414309688.mp4
 
-https://video.beeg.com/key=9MeeNQ9MjyagqxmKu5cEmw,end=1648134252,ip=192.18.136.38,limit=1/media=hlsA/1080p/526522518637096.mp4
+002,https://video.beeg.com/key=9MeeNQ9MjyagqxmKu5cEmw,end=1648134252,ip=192.18.136.38,limit=1/media=hlsA/1080p/526522518637096.mp4
 
-https://video.beeg.com/key=gqpBRuhzTmDvphattbRNPw,end=1648134258,ip=192.18.136.38,limit=1/media=hlsA/1080p/976862910253529.mp4
+003,https://video.beeg.com/key=gqpBRuhzTmDvphattbRNPw,end=1648134258,ip=192.18.136.38,limit=1/media=hlsA/1080p/976862910253529.mp4
 
 xnxx.com麻豆,#genre#
 淫邪妇科诊所,https://hls-hw.xnxx-cdn.com/videos_new/hls/04/39/c8/0439c887670c5712a4305c0141a701e4/hls.m3u8?e=1648130780&l=0&h=87e10bb16a67ec0fedee79a94b81ae47
@@ -54,7 +54,7 @@ xnxx.com麻豆,#genre#
  岳母裸身传驭妻术,https://hls-hw.xnxx-cdn.com/videos_new/hls/a9/d5/95/a9d59557dc4aa7ef7563a47b528a89a4/hls.m3u8?e=1648130828&l=0&h=01c18260b15d5c195acba50126856593
 
 
-xviswoa.com，#genre#
+xviswoa.com,#genre#
            
 日本医生,ttps://hls-hw.xvideos-cdn.com/videos_new/hls/78/13/96/7813962c456c4c79b18c02f92b32854f/hls.m3u8?e=1648131277&l=0&h=447e8ab631c782baeafb8b5a956400c4
 日本医生,https://cdn77-pic.xvideos-cdn.com/videos/videopreview/0d/6a/c1/0d6ac119720757ec97361fd03f572d94_169-1.mp4
